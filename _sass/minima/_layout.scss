@@ -11,16 +11,17 @@
 }
 
 .site-title {
-  font-size: 26px;
-  font-weight: 300;
-  line-height: 56px;
-  letter-spacing: -1px;
+  font-family: 'Lato', sans-serif;
+  font-size: 32px;
+  font-weight: 100;
+  color: red;
+  line-height: 64px;
   margin-bottom: 0;
   float: left;
 
   &,
   &:visited {
-    color: $grey-color-dark;
+    color: red;
   }
 }
 
