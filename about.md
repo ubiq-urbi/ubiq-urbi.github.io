@@ -14,3 +14,5 @@ Mon expérience me permet d’articuler choix techniques, politiques tarifaires 
 Enfin, J’ai régulièrement participé à la conception de projets d’innovation (projets NFC à Nice, conception du dispositif TAG&PASS à Grenoble, conception d’une solution billettique as a service…) impliquant une vision transverse de ces projets incluant la conception fonctionnelle, parcours client, cadrage budgétaire et modèles économiques.
 
 En 2016, j’ai créé UBIQ & URBI afin de d’accompagner collectivités et opérateurs de mobilité dans la conception, le développement et la mise en œuvre de solutions numériques.
+
+Vous pouvez télécharger mon CV [ici](cv.pdf)
