@@ -15,4 +15,4 @@ Enfin, J’ai régulièrement participé à la conception de projets d’innovat
 
 En 2016, j’ai créé UBIQ & URBI afin de d’accompagner collectivités et opérateurs de mobilité dans la conception, le développement et la mise en œuvre de solutions numériques.
 
-Vous pouvez télécharger mon CV [ici](cv.pdf)
+Vous pouvez télécharger mon CV [ici](CV.pdf)
