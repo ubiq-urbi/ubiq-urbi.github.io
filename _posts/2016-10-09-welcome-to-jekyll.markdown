@@ -1,25 +1,18 @@
 ---
 layout: post
-title:  "Welcome to Jekyll!"
-date:   2016-10-09 16:36:43 +0200
-categories: jekyll update
+title:  La dette technique
+date:   2016-03-03 16:36:43 +0200
+categories: tech
 ---
-You’ll find this post in your `_posts` directory. Go ahead and edit it and re-build the site to see your changes. You can rebuild the site in many different ways, but the most common way is to run `jekyll serve`, which launches a web server and auto-regenerates your site when a file is updated.
 
-To add new posts, simply add a file in the `_posts` directory that follows the convention `YYYY-MM-DD-name-of-post.ext` and includes the necessary front matter. Take a look at the source for this post to get an idea about how it works.
+Deux articles intéressants sur 
 
-Jekyll also offers powerful support for code snippets:
+1. La revue d’un [ouvrage de Bastien Jaillot](http://boutique.letrainde13h37.fr/products/la-dette-technique-bastien-jaillot), « La dette technique » :
 
-{% highlight ruby %}
-def print_hi(name)
-  puts "Hi, #{name}"
-end
-print_hi('Tom')
-#=> prints 'Hi, Tom' to STDOUT.
-{% endhighlight %}
+ Prendre conscience de la dette technique, c’est envisager les choses sur le moyen et le long terme, et pas uniquement sur le court terme. La dette technique, c’est également prévoir le cas où un projet sera repris par une personne ou une équipe qui n’en était pas à l’origine : comment les composants seront compris et interprétés ? Est-ce qu’il y a une documentation ? Est-ce que tous les problèmes ont été résolus au moment de la livraison ? Etc.
 
-Check out the [Jekyll docs][jekyll-docs] for more info on how to get the most out of Jekyll. File all bugs/feature requests at [Jekyll’s GitHub repo][jekyll-gh]. If you have questions, you can ask them on [Jekyll Talk][jekyll-talk].
+2. Un post du blog d’Octo : maîtriser sa dette technique. Prendre conscience de son existence, la contenir, la réduire.
 
-[jekyll-docs]: http://jekyllrb.com/docs/home
-[jekyll-gh]:   https://github.com/jekyll/jekyll
-[jekyll-talk]: https://talk.jekyllrb.com/
+ Pourquoi la traiter ? Comme l’indique la définition, du code endetté va être plus difficile à faire évoluer car, pour cela, il faudra « rembourser la dette ». Investir pour garder la dette technique sous contrôle permet de conserver un système adaptable et d’éviter d’être bloqué.
+
+
