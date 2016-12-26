@@ -5,7 +5,7 @@ date:   2016-03-03 16:36:43 +0200
 categories: tech
 ---
 
-Deux articles intéressants sur 
+Deux articles intéressants sur le concept de dette technique : 
 
 1. La [chronique](https://www.quaternum.net/2016/02/24/dette-technique/) d’un ouvrage de [Bastien Jaillot](http://boutique.letrainde13h37.fr/products/la-dette-technique-bastien-jaillot), « La dette technique » :
 
