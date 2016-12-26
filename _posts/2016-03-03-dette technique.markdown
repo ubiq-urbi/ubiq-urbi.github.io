@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  La dette technique
+title:  dette technique
 date:   2016-03-03 16:36:43 +0200
 categories: tech
 ---
